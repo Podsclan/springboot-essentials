@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>br.com.brendowpodsclan</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>final</artifactId>
     <version>0.0.1</version>
-    <name>demo</name>
+    <name>final</name>
     <description>Curso de SpringBoot DevDOJO</description>
 
     <properties>

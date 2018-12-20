@@ -1,13 +1,13 @@
-package br.com.brendowpodsclan.demo;
+package br.com.brendowpodsclan.sith;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class SithApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DemoApplication.class, args);
+        SpringApplication.run(SithApplication.class, args);
     }
 
 }
